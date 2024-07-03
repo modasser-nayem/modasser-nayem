@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi'+There!+👋;I'Am+Ali+Modasser+Nayem"; />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&pause=1500&duration=3000&lines=Hi'+There!+👋;I'Am+Ali+Modasser+Nayem"; />
 </h1>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=modasser-nayem.modasser-nayem" />
@@ -15,7 +15,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **My Personal Project** see project [here]()
+ 🔭 I’m currently working on **My Personal Project** see project [here](https://alimodassernayem.vercel.app/projects/6684cd96eee06bade592461d)
  
  🌱 I’m currently learning **Testing, GraphQL, Docker**
 
@@ -44,8 +44,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,mui,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,nextjs,prisma,postgresql,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,redux,mui,nextjs" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" /><br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vscode,linux" /><br>
+</div>
 </div>
 <br/>
 <!----------------- Top Langs ------------------>
@@ -81,7 +83,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 5px;">
     <a href='https://alimodassernayem.vercel.app/projects' target='_blank' style="text-decoration: none;">
-        <img height='30' style='border:0px;height:30px;' src='https://cdn-icons-png.flaticon.com/128/5956/5956494.png' border='0' alt='My Projects' />
+        <img height='40' style='border:0px;height:40px;' src='https://cdn-icons-png.flaticon.com/128/5956/5956494.png' border='0' alt='My Projects' />
         <h3 style="font-size: 24px; font-weight: 600;">See My Projects</h3>
     </a>
 </div>
