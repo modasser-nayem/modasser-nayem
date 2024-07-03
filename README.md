@@ -19,7 +19,7 @@
  
  🌱 I’m currently learning **Testing, GraphQL, Docker**
 
-💬 Ask me about **Typescript, React.js, Next.js, Express.js or anything [here](https://github.com/modasser-nayem/modasser-nayem/issues)**
+💬 Ask me about **Full Stack, Typescript, React.js, Next.js, Express.js or anything [here](https://github.com/modasser-nayem/modasser-nayem/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -81,11 +81,12 @@
 
 <br/>
 
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 5px;">
     <a href='https://alimodassernayem.vercel.app/projects' target='_blank' style="text-decoration: none;">
         <img height='40' style='border:0px;height:40px;' src='https://cdn-icons-png.flaticon.com/128/5956/5956494.png' border='0' alt='My Projects' />
+        </a>
         <h3 style="font-size: 24px; font-weight: 600;">See My Projects</h3>
-    </a>
 </div>
 
 <br/>
