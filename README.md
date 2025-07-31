@@ -21,11 +21,11 @@
 <div align="center">
 
 🔭 I’m currently working on a new personal project —  
-<a href="https://alimodassernayem.vercel.app/projects/6684cd96eee06bade592461d"><strong>check it out</strong></a>
+<a href="https://github.com/modasser-nayem/medica-p16"><strong>check it out</strong></a>
 
-🌱 I’m currently learning <strong>Testing</strong>, <strong>GraphQL</strong>, and <strong>Docker</strong>
+🌱 I’m currently learning <strong>Socket.io</strong> and <strong>Technology Updated Features</strong>
 
-💬 Ask me about <strong>Full Stack Development, TypeScript, React, Next.js, Express</strong>  
+💬 Ask me about <strong>Full Stack Development, TypeScript, React, Next.js, Express, Database</strong>  
 👉 <a href="https://github.com/modasser-nayem/modasser-nayem/issues">Start a conversation</a>
 
 ⚡ Fun fact: <em>Game of Thrones Night’s Watch cloaks were made from IKEA rugs</em> 😄
@@ -57,19 +57,19 @@
 <div align="center" style="max-width: 720px;">
 
   <h3>Frontend</h3>
-  <p>JavaScript, TypeScript, React, Next.js, Redux, Material UI, Tailwind CSS, HTML5, CSS3</p>
+  <p>JavaScript | TypeScript | React | Next.js | Redux | Material UI | Tailwind CSS | HTML5 | CSS3</p>
   <img alt="Frontend" src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,redux,mui,tailwind,html,css" />
 
   <br/>
 
   <h3>Backend</h3>
-  <p>Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Redis</p>
+  <p>Node.js | Express.js | MongoDB | PostgreSQL | Prisma | Redis</p>
   <img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,redis" />
 
   <br/>
 
   <h3>Tools & Others</h3>
-  <p>Git, GitHub, Docker, Jest, Postman, Firebase, Linux</p>
+  <p>Git | GitHub | Docker | Jest | Postman | Firebase | Linux</p>
   <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,docker,jest,postman,firebase,linux" />
 
 </div>
@@ -85,16 +85,16 @@
 <!-- Project 1 -->
 <strong>🧠 Domino — Online Course Platform</strong>  
 <p>An online learning platform with role-based access for students, instructors, and admins. Built with MERN Stack, featuring authentication, course management, and admin control.</p>
-<a href="https://domino-platform.vercel.app" target="_blank">🔗 Live Demo</a> | 
+<a href="https://domino-ten.vercel.app/" target="_blank">🔗 Live Demo</a> | 
 <a href="https://github.com/modasser-nayem/domino" target="_blank">💻 GitHub</a>
 
 <br/><br/>
 
 <!-- Project 2 -->
-<strong>💊 Medix — Medicine E-Commerce App</strong>  
-<p>A full-featured medicine e-commerce platform with product management, JWT authentication, admin dashboard, and SEO-ready Next.js frontend.</p>
-<a href="https://medix-health.vercel.app" target="_blank">🔗 Live Demo</a> | 
-<a href="https://github.com/modasser-nayem/medix" target="_blank">💻 GitHub</a>
+<strong>💊 Medica — Hospital Management System</strong> 
+<p>A full-featured hospital management system with healthcare services by offering virtual consultations, electronic prescriptions, online billing, notifications, and patient support features. Role-based acceess for patient, doctor, adminstrators. Built with SEO-ready Next.js frontend And Express, PostgreSQL for Backend.</p>
+<a href="https://medica-health.vercel.app" target="_blank">🔗 Live Demo</a> | 
+<a href="https://github.com/modasser-nayem/medica-p16" target="_blank">💻 GitHub</a>
 
 <br/><br/>
 
