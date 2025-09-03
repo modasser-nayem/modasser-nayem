@@ -52,6 +52,10 @@
 <br/>
 <hr/>
 
+<!------------------------------------------------------------------------------------
+                            Skills - Technologies & Tools
+------------------------------------------------------------------------------------->
+
 <h2 align="center">⚒️ Technologies & Tools</h2>
 <br/>
 <div align="center" style="max-width: 720px;">
@@ -76,27 +80,63 @@
 
 <br/>
 <hr/>
+<!------------------------------------------------------------------------------------
+                            Projects Sections
+------------------------------------------------------------------------------------->
+<div>
 
-<h2 align="center">📂 Featured Projects</h2>
+<h2 align="center"> 🚀 Featured Projects</h2>
+
+### 💊 Medica – Hospital Management System  
+A healthcare platform for patients to book appointments, attend virtual consultations, and receive prescriptions digitally.  
+
+**Key Features:**  
+- 🎥 Video/audio consultations via **WebRTC** with digital prescription generation  
+- 💳 Secure Stripe billing with automated email/SMS/in-app notifications  
+- 🩺 Doctor schedule management and analytics dashboards for admins  
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)  
+
+🔗 [Live Preview](https://medica-health.vercel.app) | 💻 [Project Code](https://github.com/modasser-nayem/medica-p16)
+
+![GitHub stars](https://img.shields.io/github/stars/modasser-nayem/medica-p16?style=social) ![GitHub forks](https://img.shields.io/github/forks/modasser-nayem/medica-p16?style=social) ![Repo size](https://img.shields.io/github/repo-size/modasser-nayem/medica-p16?label=Repo%20size)   
+
+---
+
+### 🧠 Upwise – E-learning Management Platform  
+A full-stack platform where students can purchase and complete courses, and instructors can create, manage, and monetize their content.  
+
+**Key Features:**  
+- 🔑 Role-based authentication (Admin, Instructor, Student) with secure access control  
+- 📚 Course creation & management with multimedia uploads and progress tracking  
+- 💳 Integrated Stripe payments, real-time notifications, and analytics dashboards
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)  
+
+🔗 [Live Preview](https://upwise-edu.vercel.app) | 💻 [Project Code](https://github.com/modasser-nayem/upwise-p17) 
+
+![GitHub stars](https://img.shields.io/github/stars/modasser-nayem/upwise-p17?style=social) ![GitHub forks](https://img.shields.io/github/forks/modasser-nayem/upwise-p17?style=social) ![Repo size](https://img.shields.io/github/repo-size/modasser-nayem/upwise-p17?label=Repo%20size)  
+
+---
+
+### 🔍 Lost & Found Platform  
+A community-driven platform where users can report and retrieve lost items.  
+
+**Key Features:**  
+- 📦 Intuitive item reporting and search functionality for quick retrieval  
+- ✅ Ownership verification to ensure secure and rightful returns  
+- 👤 User profile management with admin oversight for platform integrity  
+
+**Tech Stack:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![RTK Query](https://img.shields.io/badge/RTK_Query-593D88?style=flat&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)  
+
+🔗 [Live Preview](https://lost-and-found-client-p8.vercel.app) | 💻 [Client Code](https://github.com/modasser-nayem/lost-and-found-client-p8) | 🖥 [Server Code](https://github.com/modasser-nayem/lost-and-found-server-p8) 
+
+---
+
 <br/>
-
-<div align="center">
-
-<!-- Project 1 -->
-<strong>🧠 Domino — Online Course Platform</strong>  
-<p>An online learning platform with role-based access for students, instructors, and admins. Built with MERN Stack, featuring authentication, course management, and admin control.</p>
-<a href="https://domino-ten.vercel.app/" target="_blank">🔗 Live Demo</a> | 
-<a href="https://github.com/modasser-nayem/domino" target="_blank">💻 GitHub</a>
-
-<br/><br/>
-
-<!-- Project 2 -->
-<strong>💊 Medica — Hospital Management System</strong> 
-<p>A full-featured hospital management system with healthcare services by offering virtual consultations, electronic prescriptions, online billing, notifications, and patient support features. Role-based acceess for patient, doctor, adminstrators. Built with SEO-ready Next.js frontend And Express, PostgreSQL for Backend.</p>
-<a href="https://medica-health.vercel.app" target="_blank">🔗 Live Demo</a> | 
-<a href="https://github.com/modasser-nayem/medica-p16" target="_blank">💻 GitHub</a>
-
-<br/><br/>
 
 <a href="https://alimodassernayem.vercel.app/projects" target="_blank">
   <img src="https://img.shields.io/badge/View_All_Projects-1F425F?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -104,8 +144,13 @@
 
 </div>
 
+
 <br/>
 <hr/>
+
+<!------------------------------------------------------------------------------------
+                            GitHub Stats
+------------------------------------------------------------------------------------->
 
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
