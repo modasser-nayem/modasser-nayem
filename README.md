@@ -59,72 +59,17 @@ Currently, I'm focused on improving my expertise in **distributed systems, cloud
 <!-- ========================================= -->
 # 🛠 Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript" />
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Experienced with**
-
-- REST APIs
-- WebSockets (Socket.IO)
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- Third-Party API Integration
-- Payment Gateway Integration (Stripe)
-- Background Jobs & Event-Driven Workflows
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### Databases & Caching
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-**ORM & ODM**
-
-- Prisma ORM
-- Mongoose
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions,nginx" />
-</p>
-
-**Experience with**
-
-- AWS EC2
-- AWS S3
-- AWS IAM
-- CI/CD Pipelines
-- VPS Deployment
-- Docker Compose
-
-### Testing & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,postman,firebase,vscode" />
-</p>
-
-**Additional Tools**
-
-- Cloudinary
-- Swagger / OpenAPI
-- BullMQ
-- Redis Pub/Sub
+**Languages** &nbsp; <img src="https://skillicons.dev/icons?i=typescript,javascript" height="32" />
+ 
+**Backend** &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express" height="32" /> &nbsp; <code>REST APIs</code> <code>Socket.IO</code> <code>JWT & RBAC</code> <code>Stripe</code>
+ 
+**Frontend** &nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css" height="32" />
+ 
+**Database & Caching** &nbsp; <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="32" /> &nbsp; <code>Prisma ORM</code> <code>Mongoose</code>
+ 
+**Cloud & DevOps** &nbsp; <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,githubactions" height="32" /> &nbsp; <code>EC2/S3/IAM</code> <code>CI/CD</code>
+ 
+**Testing & Tools** &nbsp; <img src="https://skillicons.dev/icons?i=jest,postman,firebase,vscode" height="32" /> &nbsp; <code>Swagger</code> <code>BullMQ</code> <code>Cloudinary</code>
 
 ---
 <!-- ========================================= -->
@@ -196,33 +141,13 @@ Multi-tenant SaaS platform for water treatment companies with AI-powered report 
 ---
 
 # 📫 Let's Connect
-
+ 
 <p align="center">
-
-<a href="mailto:modassernayem@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/alimodassernayem/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://alimodassernayem.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-💼 Open to **Backend Engineer** and **Full-Stack Developer** opportunities.
-
-Always interested in collaborating on challenging projects and building scalable software.
-
+💼 Open to <strong>Backend Engineer</strong> and <strong>Full-Stack Developer</strong> opportunities — always interested in collaborating on challenging projects.
 </p>
 
 ---
-
+ 
 <p align="center">
 <i>"Building software that solves real-world problems with clean architecture, scalable systems, and continuous learning."</i>
 </p>
