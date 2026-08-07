@@ -171,15 +171,26 @@ Multi-tenant SaaS platform for water treatment companies with AI-powered report 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=modasser-nayem&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" style="max-width:100%;height:auto;" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=modasser-nayem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"
+    alt="GitHub Stats"
+    width="420"
+    style="max-width:100%;height:auto;vertical-align:top;"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=modasser-nayem&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    width="300"
+    style="max-width:100%;height:auto;vertical-align:top;"
+  />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=modasser-nayem&theme=github-dark&hide_border=true" alt="GitHub Streak" style="max-width:100%;height:auto;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modasser-nayem&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" style="max-width:420px;width:100%;height:auto;" />
+  <img
+    src="https://streak-stats.demolab.com?user=modasser-nayem&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="600"
+    style="max-width:100%;height:auto;"
+  />
 </p>
 
 ---
