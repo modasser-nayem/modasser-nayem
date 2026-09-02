@@ -2,7 +2,7 @@
 <!--                 HERO SECTION              -->
 <!-- ========================================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&pause=300&speed=16&lines=Hi+there!+👋;I'm+Ali+Modasser+Nayem;Backend+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&pause=300&speed=16&lines=Hi+there!+👋+I'm+a+Backend+Engineer" />
 </h1>
 
 <h3 align="center">
@@ -46,7 +46,7 @@ Currently, I'm focused on improving my expertise in **distributed systems, cloud
 ## 💼 Professional Experience
 
 **Backend Developer**
-**Betopia Group** • Jun 2025 – Jul 2026
+**SM Technology** • Jul 2025 – Aug 2026
 
 - Develop backend systems for international clients across multiple industries.
 - Convert business requirements into scalable production-ready applications.
@@ -61,7 +61,7 @@ Currently, I'm focused on improving my expertise in **distributed systems, cloud
 
 **Languages** &nbsp; <img src="https://skillicons.dev/icons?i=typescript,javascript" height="32" />
  
-**Backend** &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express" height="32" /> &nbsp; <code>REST APIs</code> <code>Socket.IO</code> <code>JWT & RBAC</code> <code>Stripe</code>
+**Backend** &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="32" /> &nbsp; <code>REST APIs</code> <code>Socket.IO</code> <code>JWT & RBAC</code> <code>Stripe</code>
  
 **Frontend** &nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css" height="32" />
  
