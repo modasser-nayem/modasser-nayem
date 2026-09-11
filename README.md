@@ -1,33 +1,53 @@
-<!-- ========================================= -->
-<!--                 HERO SECTION              -->
-<!-- ========================================= -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&pause=300&speed=16&lines=Hi+there!+👋+I'm+a+Backend+Engineer" />
-</h1>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">
-Backend Engineer • Building Production-Grade APIs, Real-Time Systems & Scalable SaaS Applications
-</h3>
+<!--                         ANIMATED HEADER                         -->
 
-<p align="center">
-I enjoy transforming business requirements into reliable software through clean architecture, scalable backend systems, and modern cloud technologies.
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:0D1117&height=220&section=header&text=Ali%20Modasser%20Nayem&fontSize=64&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=⚙️%20Backend%20Engineer%20%7C%20💻%20Full-Stack%20Developer&descAlignY=60&descSize=22&descColor=ffffff" />
+
+<div align="center">
+
+<!-- Animated Typing -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=900&height=55&lines=Production-Grade+Backend+Systems+%26+APIs;Scalable+Real-Time+Applications;Multi-Tenant+SaaS+Architecture;Secure+Authentication+%26+Database+Design;Cloud+Deployment+%7C+Docker+%7C+AWS+%7C+CI%2FCD;Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+MongoDB+%7C+Redis" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- Badges Row -->
+
+<p>
+
+<img src="https://img.shields.io/badge/🎯%20Open%20To%20Work-YES-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/📍%20Bangladesh-Dhaka-00D9FF?style=for-the-badge&labelColor=0D1117" />
+
 </p>
 
-<p align="center">
+<!-- Social Links -->
 
-<a href="mailto:modassernayem@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p>
+
+<a href="https://linkedin.com/in/alimodassernayem">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/alimodassernayem/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:modassernayem@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/+8801816090766">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <a href="https://alimodassernayem.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
 
 </p>
+
+</div>
 
 ---
 
@@ -57,20 +77,92 @@ Currently, I'm focused on improving my expertise in **distributed systems, cloud
 <!-- ========================================= -->
 <!--                TECH STACK                 -->
 <!-- ========================================= -->
-# 🛠 Tech Stack
+---
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
-**Languages** &nbsp; <img src="https://skillicons.dev/icons?i=typescript,javascript" height="32" />
- 
-**Backend** &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="32" /> &nbsp; <code>REST APIs</code> <code>Socket.IO</code> <code>JWT & RBAC</code> <code>Stripe</code>
- 
-**Frontend** &nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css" height="32" />
- 
-**Database & Caching** &nbsp; <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="32" /> &nbsp; <code>Prisma ORM</code> <code>Mongoose</code>
- 
-**Cloud & DevOps** &nbsp; <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,githubactions" height="32" /> &nbsp; <code>EC2/S3/IAM</code> <code>CI/CD</code>
- 
-**Testing & Tools** &nbsp; <img src="https://skillicons.dev/icons?i=jest,postman,firebase,vscode" height="32" /> &nbsp; <code>Swagger</code> <code>BullMQ</code> <code>Cloudinary</code>
+<div align="center">
 
+### ⚙️ Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript" height="36" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" height="24" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" height="24" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/RBAC-5C2D91?style=for-the-badge" height="24" />
+</p>
+
+### 🗄️ Databases & Data Layer
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="36" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Database%20Design-336791?style=for-the-badge" height="24" />
+<img src="https://img.shields.io/badge/Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="24" />
+</p>
+
+### ⚡ Background & Distributed Processing
+
+<p>
+<img src="https://img.shields.io/badge/BullMQ-CB3837?style=for-the-badge" height="24" />
+<img src="https://img.shields.io/badge/Background%20Jobs-2F855A?style=for-the-badge" height="24" />
+<img src="https://img.shields.io/badge/Queue%20Processing-2B6CB0?style=for-the-badge" height="24" />
+</p>
+
+### 🌐 Full-Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="36" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Responsive%20UI-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="24" />
+<img src="https://img.shields.io/badge/SSR%20%2F%20CSR-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24" />
+</p>
+
+### 🔐 Architecture & Application Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Modular%20Architecture-2D3748?style=for-the-badge" height="24" />
+<img src="https://img.shields.io/badge/Multi--Tenant%20SaaS-3182CE?style=for-the-badge" height="24" />
+<img src="https://img.shields.io/badge/Third--Party%20Integrations-319795?style=for-the-badge" height="24" />
+<img src="https://img.shields.io/badge/Payment%20Systems-635BFF?style=for-the-badge" height="24" />
+</p>
+
+### ☁️ Cloud, DevOps & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions" height="36" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" height="24" />
+</p>
+
+### 🧪 Testing & Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode" height="36" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="24" />
+<img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="24" />
+</p>
+
+</div>
 ---
 <!-- ========================================= -->
 <!--             FEATURED PROJECTS             -->
@@ -138,13 +230,34 @@ Multi-tenant SaaS platform for water treatment companies with AI-powered report 
   />
 </p>
 
+<div align="center">
+  <img src="https://github-all-stats.vercel.app/api?username=modasser-nayem&v=1" alt="My GitHub Stats" />
+</div>
+
 ---
 
 # 📫 Let's Connect
  
+<div align="center">
+
+<a href="https://linkedin.com/in/alimodassernayem"><img height="42" src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;
+<a href="https://github.com/modasser-nayem"><img height="42" src="https://skillicons.dev/icons?i=github" /></a>&nbsp;&nbsp;
+<a href="mailto:modassernayem@gmail.com"><img height="42" src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;&nbsp;
+<a href="https://alimodassernayem.vercel.app"><img height="42" src="https://skillicons.dev/icons?i=next" /></a>
+
+<br/>
+
 <p align="center">
-💼 Open to <strong>Backend Engineer</strong> and <strong>Full-Stack Developer</strong> opportunities — always interested in collaborating on challenging projects.
+  <a href="mailto:modassernayem@gmail.com" style="text-decoration:none;">
+    📧 <b>Hire Me</b> · modassernayem@gmail.com
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://wa.me/8801816090766" style="text-decoration:none;">
+    💬 <b>WhatsApp</b> · +880 1816-090766
+  </a>
 </p>
+
+</div>
 
 ---
  
